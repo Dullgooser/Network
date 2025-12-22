@@ -350,4 +350,15 @@ UDP：无连接的传输服务 --->开销小，延迟低，但是不可靠
 ### UDP
 
 #### UDP数据报
+![alt text](image-56.png)
 
+#### UDP检验
+![alt text](image-57.png)
+![alt text](image-59.png)
+
+### TCP
+- 建立链接（三次握手）
+- 数据传输
+- 释放链接（四次握手）
+![alt text](image-60.png)
+![alt text](image-61.png)
